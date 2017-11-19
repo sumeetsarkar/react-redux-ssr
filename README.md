@@ -12,7 +12,4 @@
     yarn run start-prod
 
 
-![alt text](screenshots/news-mobile.png "News App sample: React Redux SSR")
-
-![alt text](screenshots/news-desktop.png "News App sample: React Redux SSR")
-
+!["News App sample: React Redux SSR"](screenshots/news-mobile.png =400x650)
