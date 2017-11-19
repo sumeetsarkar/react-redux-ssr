@@ -16,4 +16,4 @@
 
 ## Screenshot
 
-!["News App sample: React Redux SSR"](screenshots/news-mobile.png)
+!["News App sample: React Redux SSR"](screenshots/news-mobile-iphone6.png)
