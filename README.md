@@ -1,11 +1,18 @@
-> A simple React Redux SSR example for News website
+# React Redux SSR
 
-Install dependencies
-  yarn install
+> A simple React Redux SSR example for a News website
 
-Build dev
-  yarn run start-dev
+# Install dependencies
+    yarn install
 
-Build prod
-  yarn run start-prod
+# Build dev
+    yarn run start-dev
+
+# Build prod
+    yarn run start-prod
+
+
+![alt text](screenshots/news-mobile.png "News App sample: React Redux SSR")
+
+![alt text](screenshots/news-desktop.png "News App sample: React Redux SSR")
 
